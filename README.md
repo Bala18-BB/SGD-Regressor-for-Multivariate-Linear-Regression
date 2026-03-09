@@ -8,9 +8,11 @@ To write a program to predict the price of the house and number of occupants in 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Get the independent variable X and dependent variable Y.
-2.Calculate the mean of the X -values and the mean of the Y -values.
-3.Find the slope m of the line of best fit using the formula. 
+1.Import the required packages and print the present data. 
+2.Print the placement data and salary data. 
+3.Find the null and duplicate values. 
+4.Using logistic regression find the predicted values of accuracy , confusion matrices. 
+5.Display the results.
 
 ## Program:
 ```
@@ -79,8 +81,9 @@ RegisterNumber:  25010215
 ```
 
 ## Output:
-<img width="776" height="25" alt="Screenshot 2026-02-26 100913" src="https://github.com/user-attachments/assets/2ec98973-75cf-4bed-ab80-28d418b21704" />
-<img width="824" height="37" alt="Screenshot 2026-02-26 100905" src="https://github.com/user-attachments/assets/e2338013-144b-4d6a-a8df-0fc1ce2bc52f" />
+<img width="859" height="61" alt="Screenshot 2026-03-09 103204" src="https://github.com/user-attachments/assets/c0c91e80-53be-408a-bccc-2fa28d690efd" />
+<img width="802" height="75" alt="Screenshot 2026-03-09 103214" src="https://github.com/user-attachments/assets/4447803a-586c-4d39-804b-8d411dda003a" />
+
 
 
 
